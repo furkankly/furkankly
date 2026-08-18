@@ -4,21 +4,16 @@ on my own time i build developer tools in Rust and Typescript.
 
 [furkankly.dev](https://furkankly.dev) is a small desktop OS, built to feel like the music i listen to. it's also [where i write](https://furkankly.dev/posts).
 
-### building now
-
-| project                                           | description                                                                                             | stack               |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------- |
-| [rataflow](https://github.com/furkankly/rataflow) | React Flow's node-graph interaction, in a terminal. built on ratatui, with a wasm build for the browser | Rust, ratatui       |
-| [zoetrope](https://github.com/furkankly/zoetrope) | watch a Claude Code session as a live flow graph, in your terminal or your browser                      | Rust, ratatui       |
-
-i wrote the whole thing down as i built it: [node-based UIs in the terminal](https://furkankly.dev/posts).
-
 ### projects
 
-| project                                           | description                                                                                | stack                             |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------- |
+| project                                           | description                                                                                                                                                      | stack                             |
+| ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| [rataflow](https://github.com/furkankly/rataflow) | React Flow's node-graph interaction, in a terminal. built on ratatui, with a wasm build for the browser                                                          | Rust, ratatui                     |
+| [zoetrope](https://github.com/furkankly/zoetrope) | watch a Claude Code session as a live flow graph, in your terminal or your browser                                                                               | Rust, ratatui                     |
 | [flyradar](https://github.com/furkankly/flyradar) | k9s for Fly.io. manage your infra without leaving the terminal. featured on [the Changelog](https://www.youtube.com/watch?t=1950&v=qsIuFnhhM0w&feature=youtu.be). | Rust                              |
-| [mookbark](https://github.com/furkankly/mookbark) | bookmark manager for web, CLI and TUI, that lets you chat with your bookmarks              | Rust, TypeScript, Next, LangChain |
+| [mookbark](https://github.com/furkankly/mookbark) | bookmark manager for web, CLI and TUI, that lets you chat with your bookmarks                                                                                    | Rust, TypeScript, Next, LangChain |
+
+i wrote the whole thing down as i built it: [node-based UIs in the terminal](https://furkankly.dev/posts).
 
 ### experiments
 
